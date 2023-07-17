@@ -21,7 +21,8 @@
 .image
 {
     width: 90%;
-    position: absolute;
+    display: block;
+    margin: auto;
     text-align: center;
 }
 .heading
