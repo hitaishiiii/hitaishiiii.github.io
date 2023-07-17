@@ -10,3 +10,10 @@
     font-family: 'Outfit', sans-serif;
     margin: 0px;
 }
+.cover-heading
+{
+    font-size: 30px;
+    text-align: center;
+    padding: 30px;
+    color: #ffffff;
+}
