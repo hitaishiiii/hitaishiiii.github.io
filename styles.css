@@ -12,31 +12,27 @@
 }
 .cover-heading
 {
-    width: 60%;
     vertical-align: middle;
     font-size: 90px;
     text-align: center;
-    padding: 60px;
+    padding: 90px;
     color: #ffffff;
 }
 .image
 {
     width: 90%;
     text-align: center;
-    padding: 30px;
 }
 .heading
 {
     width: 60%;
     font-size: 30px;
-    padding: 30px;
     color: #173542;
 }
-.heading
+.sub-heading
 {
     width: 50%;
     font-size: 18px;
-    padding: 30px;
     color: #212121;
 }
 .div-section
