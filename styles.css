@@ -30,6 +30,7 @@
     width: 60%;
     font-size: 48px;
     color: #18465a;
+    margin: 0px;
 }
 .sub-heading
 {
@@ -46,10 +47,11 @@
 .placeholder
 {
     display: block;
-    background-color: #bbbbbb;
+    background-color: #e4e4e4;
     width: 70%;
     height: 400px;
     margin: auto;
+    padding: 30px;
 }
 .footer
 {
@@ -61,9 +63,17 @@
 }
 .footer-text
 {
-    font-size: 16px;
     color: #cccccc;
-    padding: 30px;
+    padding: 10px;
+    margin: 0px;
     width: 100%;
     text-align: center;
+}
+.font-size-16
+{
+    font-size: 16px;
+}
+.font-size-18
+{
+    font-size: 18px;
 }
