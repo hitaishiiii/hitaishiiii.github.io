@@ -34,7 +34,7 @@
 }
 .sub-heading
 {
-    width: 40%;
+    width: 50%;
     font-size: 22px;
     color: #212121;
 }
@@ -58,7 +58,6 @@
     width: auto;
     padding: 50px;
     background: linear-gradient(to top, #2C5364, #203A43, #0F2027);
-    min-height: 200px;
     margin: 0px;
 }
 .footer-text
