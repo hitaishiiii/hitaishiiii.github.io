@@ -13,7 +13,7 @@
 .cover-heading
 {
     vertical-align: middle;
-    font-size: 90px;
+    font-size: 96px;
     text-align: center;
     padding: 90px;
     color: #ffffff;
@@ -28,13 +28,13 @@
 .heading
 {
     width: 60%;
-    font-size: 30px;
-    color: #173542;
+    font-size: 48px;
+    color: #18465a;
 }
 .sub-heading
 {
     width: 40%;
-    font-size: 18px;
+    font-size: 22px;
     color: #212121;
 }
 .div-section
@@ -42,4 +42,27 @@
     min-height: 500px;
     padding: 80px;
     align-content: center;
+}
+.placeholder
+{
+    display: block;
+    background-color: #bbbbbb;
+    width: 70%;
+    height: 400px;
+    margin: auto;
+}
+.footer
+{
+    width: auto;
+    padding: 50px;
+    background: linear-gradient(to top, #2C5364, #203A43, #0F2027);
+    min-height: 200px;
+}
+.footer-text
+{
+    font-size: 16px;
+    color: #cccccc;
+    padding: 30px;
+    width: 100%;
+    text-align: center;
 }
