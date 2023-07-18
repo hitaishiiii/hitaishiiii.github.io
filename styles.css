@@ -57,6 +57,7 @@
     padding: 50px;
     background: linear-gradient(to top, #2C5364, #203A43, #0F2027);
     min-height: 200px;
+    margin: 0px;
 }
 .footer-text
 {
