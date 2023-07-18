@@ -3,7 +3,8 @@
     width: auto;
     padding: 50px;
     /* background: linear-gradient(to top, #2C5364, #203A43, #0F2027); */
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    /* background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%); */
+    background: linear-gradient(115deg, #5A0A61 0%, #170536 100%);
 }
 .body-section
 {
@@ -59,7 +60,8 @@
     width: auto;
     padding: 50px;
     /* background: linear-gradient(to top, #2C5364, #203A43, #0F2027); */
-    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+    /* background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%); */
+    background: linear-gradient(115deg, #5A0A61 0%, #170536 100%);
     margin: 0px;
 }
 .footer-text
